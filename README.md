@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Software Engineering at ASU.
 - 💞️ I’m looking to collaborate on just about anything!
 - ⚙ I have experience with Python, Java, C#, Rest APIs, JSON, XML, and others!
-- 📫 How to reach me: ddmyoung9@asu.edu
+- 📫 How to reach me: dmyoung9@asu.edu
 
 <!---
 dmyoung9/dmyoung9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
